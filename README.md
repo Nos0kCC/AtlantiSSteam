@@ -1,4 +1,4 @@
-# AtlantiSSteam
+# AtlantiSSteam beta 1.0
 my project related to the studio
 # What is it?
 this is an alternative to steam, but all the projects are projects of the same studio
